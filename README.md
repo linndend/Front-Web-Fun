@@ -1,3 +1,3 @@
-<div align="center>
+<header align="center>
   JUST FOR FUN
-</div>
+</header>
