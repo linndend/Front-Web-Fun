@@ -3,11 +3,9 @@
 </div>
 
 <div align="center">
-<h8>result</h8>
+<h3>Result</h3>
 </div>
 
 <div align="center">
-```bash
 https://linndend.github.io/Front-Web-Fun/
-```
 </div>
